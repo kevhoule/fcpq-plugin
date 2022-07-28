@@ -1,6 +1,6 @@
 {
-    "name": "okam/okam-block-area",
-    "description": "Plugin Wordpress - Okam Block Area",
+    "name": "fcpq-plugin",
+    "description": "Plugin Wordpress ",
     "type": "wordpress-plugin",
     "authors": [
         {
@@ -9,10 +9,6 @@
         }
     ],
     "require": {
-        "composer/installers": "^1.9",
-        "okam/okam-components-gutenberg" : "1.0.0",
-        "okam/okam-block-area" : "1.0.1",
-        "okam/okam-mega-menu" : "1.2.0",
-        "okam/okam/okam-markerio" : "1.0.0"
+        "composer/installers": "^1.9"
     }
 }
